@@ -4,7 +4,6 @@ public class AccountRepository {
 
     private String name;
 
-
     public String getName() {
         return name;
     }

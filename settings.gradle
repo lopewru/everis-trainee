@@ -1,3 +1,4 @@
 include 'spring-core'
 include 'spring-core-II'
+include 'spring-core-template'
 
